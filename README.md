@@ -1,6 +1,6 @@
 ## Formulário Vue.js
 
-    Esse é o projeto criado para apresentar um formulário inicial que 
+    Esse é o projeto de um formulário que 
     apresenta alguns itens a serem escolhidos pelo usuário. 
 
     Em seguida clicando em continuar, o mesmo é direcionado para a página de checkout onde serão 
