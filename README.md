@@ -1,4 +1,5 @@
-# desafio-checkout
+## Formulário Vue.js
+
     Esse é o projeto criado para apresentar um formulário inicial que 
     apresenta alguns itens a serem escolhidos pelo usuário. 
 
