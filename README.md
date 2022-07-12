@@ -1,7 +1,9 @@
 # desafio-checkout
-    Esse é o projeto criado para apresentar um formulário inicial que apresenta alguns itens a serem escolhidos pelo usuário. 
+    Esse é o projeto criado para apresentar um formulário inicial que 
+    apresenta alguns itens a serem escolhidos pelo usuário. 
 
-    Em seguida clicando em continuar, o mesmo é direcionado para a página de checkout onde serão listados os itens selecionados anteriormente e também onde fica disponível as formas de pagamento.
+    Em seguida clicando em continuar, o mesmo é direcionado para a página de checkout onde serão 
+    listados os itens selecionados anteriormente e também onde fica disponível as formas de pagamento.
 
 ## Tecnologias Utilizadas
 <ul>
