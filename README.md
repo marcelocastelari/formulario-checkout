@@ -1,24 +1,35 @@
 # desafio-checkout
+    Esse é o projeto criado para apresentar um formulário inicial que apresenta alguns itens a serem escolhidos pelo usuário. 
 
-## Project setup
+    Em seguida clicando em continuar, o mesmo é direcionado para a página de checkout onde serão listados os itens selecionados anteriormente e também onde fica disponível as formas de pagamento.
+
+## Tecnologias Utilizadas
+<ul>
+  <li>O framework utilizado neste projeto foi o Vue.js.</li>
+  <li>Para gerenciamento de estados dentro du Vue.js foi usado o Vuex</li>
+  <li>Para trabalhar com rotas, a biblioteca escolhida foi Vue Router </li>
+  <li>O framework de CSS utilizado foi o TailwindCSS.</li>
+  <li>O gerenciador de pacotes utilizado foi o Yarn.</li>
+  <li>E para os testes unitários foi utilizado o Jest.</li>
+</ul>
+
+## Setup
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Compilação
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Compilação para produção
 ```
 yarn build
 ```
 
-### Run your unit tests
+### Gerar os testes
 ```
 yarn test:unit
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
